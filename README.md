@@ -32,7 +32,7 @@ console.log(addr); // 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa
 ## Supported cryptocurrencies
 
 This library currently supports the following cryptocurrencies and address formats (ordered alphabetically):
-
+ 
 - ABBC (base58 + ripemd160-checksum)
 - ADA (base58, no check + crc32-checksum and bech32)
 - AE (base58check)
